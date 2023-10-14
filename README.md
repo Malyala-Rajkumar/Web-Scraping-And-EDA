@@ -1,2 +1,2 @@
-# Web-Scraping-And-EDA
+# Web-Scraping
 
